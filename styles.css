@@ -4,7 +4,7 @@
 /* Estiliza o corpo da página */
 body {
     font-family: "Montserrat", sans-serif, monospace; /* Define a fonte padrão */
-    background-image: url(images/doacao-africa.jpg);
+    background-image: url(doacao-africa.jpg);
     background-size: cover;
     display: flex; /* Usa Flexbox para layout */
     flex-direction: column; /* Alinha os itens na vertical */
